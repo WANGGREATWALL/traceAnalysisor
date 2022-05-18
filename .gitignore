@@ -1,0 +1,14 @@
+*.tlog
+*.suo
+*.db
+*.ipch
+*.exe
+*.pdb
+*.obj
+*.log
+*.recipe
+*.ilk
+*.idb
+/traceAnalyzer/traceAnalyzer/Debug/traceAnalyzer.vcxproj.FileListAbsolute.txt
+/.vs/*.json
+/.vs/*.sqlite
